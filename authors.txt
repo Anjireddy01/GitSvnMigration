@@ -1,0 +1,2 @@
+admin = admin <admin@mycompany.com>
+root = root <root@mycompany.com>
